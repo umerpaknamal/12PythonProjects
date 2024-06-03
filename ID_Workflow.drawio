@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T13:27:55.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0" etag="dBuypo9V2MKbyVm_nzPf" version="24.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T13:28:03.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0" etag="FTQUeEPua4dS1BEfb6rf" version="24.4.11" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1707" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -700,7 +700,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HGX4EEk05pwn2Lcb_hOi-4" value="Workflow Logs" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1340" width="280" height="260" as="geometry">
+          <mxGeometry x="-30" y="1340" width="280" height="220" as="geometry">
             <mxRectangle x="-500" y="160" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
